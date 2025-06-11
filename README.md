@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Xavior4571
-- 👀 I’m interested in improving myself and working with a team or even as an intern
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in improving myself and working with a team or even as an intern.
+- 🌱 I’m currently learning Javascript. I'm also into vibe coding.
 - 💞️ I’m looking to collaborate on anything
-- 🧠 I know HTML, CSS and small JS
+- 🧠 I know HTML, CSS and JS.
 - 🧑‍🤝‍🧑 I'm currently working with KatchitoJr
 
 <!---
